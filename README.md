@@ -1,2 +1,2 @@
 # my-first-repo
-Practice for learning gi
+Practice for learning git
